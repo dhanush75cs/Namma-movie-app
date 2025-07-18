@@ -6,7 +6,7 @@
   "homepage":"https://dhanush75cs.github.io/Namma-movie-app/",
   "scripts": {
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
