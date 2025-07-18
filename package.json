@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"http://dhanush75cs.github.io/namma-movie-app",
+  "homepage":"http://dhanush75cs.github.io/Namma-movie-app",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
